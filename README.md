@@ -1,4 +1,6 @@
-# VocabAudio 2.1 Beta · 词汇发音工坊
+# 词汇发音工坊 · VocabAudio
+
+**2.1 Beta**
 
 [下载 2.1 Beta 升级版 / Download 2.1](https://github.com/cty051111-alt/VocabAudio/releases/tag/v2.1.0-beta) · [保留的 2.0 Beta / Previous 2.0](https://github.com/cty051111-alt/VocabAudio/releases/tag/v2.0.0-beta)
 
